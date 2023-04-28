@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Valid Zuhaeri
 - 🔭 I'm interested in Software Engineering 
 - 📫 How to reach me on 
-<a href="https://www.instagram.com/validzed/" target="_blank">Instagram</a> and
-<a href="https://www.linkedin.com/in/valid-zuhaeri-535623244/" target="_blank">LinkedIn</a>
+<a href="https://www.instagram.com/validzed" target="_blank">Instagram</a>, <a href="https://twitter.com/validzed" target="_blank">Twitter</a> and
+<a href="https://www.linkedin.com/in/valid-zuhaeri" target="_blank">LinkedIn</a>
 
 <!--
 **validzed/validzed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
